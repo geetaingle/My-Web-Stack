@@ -5,11 +5,12 @@
 3. What is JSX?
 4. What is rendering?
         
-        the render() method is the only required method in a class component, 
-        and is responsible for describing the view to be rendered to the browser window
-        
-        
+        - Rendering is the most important procedure that a programmer has to manage in frontend development.
+        - The render() method is the only required method in a class component, and is responsible for describing the view 
+        to be rendered to the browser window
+                
 5. What is Babel?
 6. What is webpack?
+7. 
 
 
